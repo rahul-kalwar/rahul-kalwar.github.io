@@ -18,7 +18,7 @@ Here are some of the projects I am working on:
 2.⁠ ⁠Todo List Website
 
 
-![picture](blob:https://web.whatsapp.com/765e9e96-1bcb-4c67-a1cf-987663fd9b32) 
+![picture](https://web.whatsapp.com/765e9e96-1bcb-4c67-a1cf-987663fd9b32) 
 <!--image link -->
 
 ## Contact
