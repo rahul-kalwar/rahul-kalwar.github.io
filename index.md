@@ -18,7 +18,7 @@ Here are some of the projects I am working on:
 2.⁠ ⁠Todo List Website
 
 
-![picture](https://web.whatsapp.com/765e9e96-1bcb-4c67-a1cf-987663fd9b32) 
+![picture](https:https://scontent.fqlf1-2.fna.fbcdn.net/v/t39.30808-6/462335875_2011043039316531_527212891803312344_n.jpg?stp=dst-jpg_p843x403&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ms12ko9Rjc8Q7kNvgHYXPb5&_nc_ht=scontent.fqlf1-2.fna&_nc_gid=A33707_LEKY2dDHd5sDK2q2&oh=00_AYA8NU4V3JD3ZQ_ziyATMnk5QbicHTQAs7MvCtaPvF_WDg&oe=670AC3FD) 
 <!--image link -->
 
 ## Contact
